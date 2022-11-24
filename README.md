@@ -3,7 +3,7 @@
 <p><b>⚠ SISTEMA SUPORTADO: (UBUNTU 18!).⚠</br>
 
 ```
-apt-get update -y; apt-get upgrade -y; wget https://github.com/srSPEEDiness/keyssh-gerador/raw/main/instala_server; chmod +x instala_server && ./instala_server
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/srSPEEDiness/keyssh-gerador/main/install/instala_server; chmod +x instala_server && ./instala_server
 ```
 
 # —(••÷[ 𝐈𝐌𝐀𝐆𝐄𝐌 ]÷••)—
