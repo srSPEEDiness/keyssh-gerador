@@ -1,6 +1,6 @@
 #!/bin/bash
 #--------------------------
-# SCRIPT KEY-PRO
+# SCRIPT SPEED GENERATOR 
 # CANAL TELEGRAM: @srSPEEDiness
 #--------------------------
 clear
@@ -164,7 +164,7 @@ rm -rf $HOME/instala_server > /dev/null 2>&1
 
 clear
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"| lolcat
-echo -e "\033[1;31mINSTALADOR KEY SWIT-T-PLUS\033[0m"| lolcat
+echo -e "\033[1;31mINSTALADOR SPEEDCELL GENERATOR \033[0m"| lolcat
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"| lolcat
 echo -ne "\033[0m"
 instala_fun

@@ -67,7 +67,7 @@ touch /var/www/html/$key_tmp/index.html > /dev/null 2>&1
 fi
 clear
 echo -e "\033[0;34m ========================="| lolcat
-echo -e "\033[1;33m SCRIPT SWIT-T-PLUS!    \033[0m"| lolcat
+echo -e "\033[1;33m GENERATOR SPEEDCELL PREMIUM!    \033[0m"| lolcat
 echo -e "\033[0;34m ========================="| lolcat
 echo -e ""
 echo -e "\033[1;37m apt-get update -y; apt-get upgrade -y; wget $IP/Plus; chmod 777 Plus; ./Plus"| lolcat
@@ -127,7 +127,7 @@ touch /var/www/html/$key_tmp/index.html > /dev/null 2>&1
 fi
 clear
 echo -e "\033[0;34m ========================="| lolcat
-echo -e "\033[1;33m SCRIPT SWIT-T-PLUS!    \033[0m"| lolcat
+echo -e "\033[1;33m GENERATOR SPEEDCELL PREMIUM!    \033[0m"| lolcat
 echo -e "\033[0;34m ========================="| lolcat
 echo -e ""
 echo -e "\033[1;36m apt-get update -y; apt-get upgrade -y; wget $IP/Plus; chmod 777 Plus; ./Plus"| lolcat
@@ -188,7 +188,7 @@ fi
 }
 
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "\E[41;1;37m           GERADOR SWIT-T-PLUS        \E[0m"| lolcat
+echo -e "\E[41;1;37m       GENERATOR SPEEDCELL PREMIUM!        \E[0m"| lolcat
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"| lolcat
 mine_port
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"| lolcat

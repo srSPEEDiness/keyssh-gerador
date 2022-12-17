@@ -2,9 +2,9 @@
 #====================================================
 #	SCRIPT: CONEXAO SSHPLUS MANAGER
 #   DATA ATT:   28 de Set 2020
-#	DESENVOLVIDO POR:	SR_SPEED
-#	CONTATO TELEGRAM:	http://t.me/SRSPEED
-#	CANAL TELEGRAM:	http://t.me/sshspeedplus
+#	DESENVOLVIDO POR:	SR SPEEDiness
+#	CONTATO TELEGRAM:	http://t.me/srSPEEDiness
+#	CANAL TELEGRAM:	http://t.me/SRSPEEDINESS
 #====================================================
 _lvk=$(wget -qO- http://191.252.193.62/script/versao)
 IP=$(wget -qO- ipv4.icanhazip.com)
